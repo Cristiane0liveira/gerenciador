@@ -53,7 +53,7 @@ O Atlas Hub é uma aplicação web para organizar projetos, membros e tarefas, p
 
 
 
-OBS: O primeiro usuário registrado recebe automaticamente a função de administrador. As operações da aplicação devem respeitar as permissões de cada usuário.
+OBS: O primeiro usuário registrado recebe automaticamente a função de administrador.
 
 ---
 
